@@ -44,7 +44,7 @@ job_application_mailer/
 ### Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/job-application-mailer.git
+git clone https://github.com/0subodh/job-application-mailer.git
 cd job-application-mailer
 ```
 
